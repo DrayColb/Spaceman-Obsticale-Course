@@ -1,20 +1,17 @@
-<h1>JWipe - Disk Sanitization</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>JWipe - Spaceman Obsticale Coarse Game</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project is a video game of a spaceman riding mysterous roads that share the properties of the planets in our solar system to make it back to Earth. This consists of simple C# scripts that allow the player to move, jump, fall, crash, and restart utilizing the Unity game engine. Unity provides all the graphics, components and physics for the player to reach the end of the game.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>C#</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Unity </b> (21H2)
 
 <h2>Program walk-through:</h2>
 
