@@ -17,9 +17,7 @@ This project is a video game of a spaceman riding mysterous roads that share the
 
 <p align="center">
 Launch the utility: <br/>
-<img src=![Player movement script](https://github.com/DrayColb/DrayColb1/assets/159193252/d65024a0-6425-43e3-8720-6656be4a9c69)
-/>
-<br />
+<img src= https://imgur.com/a/JYP5xzH/>
 <br />
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
