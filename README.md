@@ -1,4 +1,4 @@
-<h1>JWipe - Spaceman Obsticale Coarse Game</h1>
+<h1>Spaceman Obsticale Coarse</h1>
 
 <h2>Description</h2>
 This project is a video game of a spaceman riding mysterous roads that share the properties of the planets in our solar system to make it back to Earth. This consists of simple C# scripts that allow the player to move, jump, fall, crash, and restart utilizing the Unity game engine. Unity provides all the graphics, components and physics for the player to reach the end of the game.
