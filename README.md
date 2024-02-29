@@ -30,28 +30,9 @@ The Opening Screen: <br/>
 <img width="960" alt="Screenshot6" src="https://github.com/DrayColb/DrayColb1/assets/159193252/006bf313-7312-4c34-9a0c-6315d6abf5bd">
 <br />
 <br />
-Confirm your selection:  <br/>
+:  <br/>
 <img width="954" alt="Screenshot7" src="https://github.com/DrayColb/DrayColb1/assets/159193252/588275f4-527c-447f-b156-eb35a54f6a24">
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
