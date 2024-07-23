@@ -31,7 +31,6 @@ The Opening Screen: <br/>
 <br />
 <br />
 :  <br/>
-<img width="954" alt="Screenshot7" src="https://github.com/DrayColb/DrayColb1/assets/159193252/588275f4-527c-447f-b156-eb35a54f6a24">
 <br />
 <br />
 
