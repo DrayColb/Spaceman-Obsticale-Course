@@ -34,6 +34,9 @@ The Opening Screen: <br/>
 <br />
 <br />
 
-<video src="https://github.com/user-attachments/assets/38506a0a-045d-46f8-b585-8ee01507f7dc">
+
+
+<video src="https://github.com/user-attachments/assets/e5c1b533-194d-4300-86ba-5d72e5225037">
+
 
 
